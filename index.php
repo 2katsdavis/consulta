@@ -29,6 +29,10 @@
         border-radius: 7px;
 
     }
+    #chart-area svg rect:hover{
+    stroke: #fff;
+    stroke-width:3px;
+    }
 </style>
 </head>
 
