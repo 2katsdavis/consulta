@@ -3,31 +3,17 @@
 <head>
     <meta charset="utf-8">
     <meta name="description" content="">
-    <title>3.2 - Linear scales</title>
+    <title>Linear scales R</title>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- Custom styling -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style1.css">
 <style>
     
-    #container {
-        margin-top: 20px;
-    }
-    #container .row{
-        border-radius: 10px;
-
-        position: relative;
-        margin: 0 auto;
-        background-color: #222;
-        width: 420px;
-        height: 350px;
-    
-    }
+ 
     svg{
-        padding: 10px;
-        border: 3px solid #222;
         border-radius: 7px;
-
+        background-color: #fff;
     }
     #chart-area svg rect:hover{
     stroke: #fff;
